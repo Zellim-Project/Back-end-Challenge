@@ -10,7 +10,7 @@
 - MongoDB
 - Docker
 - Tests
-- CI/CD
+- CI/CD (CircleCI or Github Actions)
 - Upload to one Cloud Service (AWS, GCP, Azure, Vercel, OVH)
 
 _The communication between microservices you can do however you prefer_
