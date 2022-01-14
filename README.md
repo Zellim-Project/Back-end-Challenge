@@ -1,4 +1,4 @@
-# Back-end-Test
+# Zellim Backend Challenge
 
 ### Challenge
 
