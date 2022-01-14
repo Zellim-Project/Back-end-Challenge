@@ -8,10 +8,11 @@
 - Microservice needs to be do in NodeJS
 - Typescript
 - MongoDB
+- Docker
+- Upload to one Cloud Service
+- Tests 
 
 _The communication between microservices you can do how you prefer_
-
-
 
 ## Project details
 
