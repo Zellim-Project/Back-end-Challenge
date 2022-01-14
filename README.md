@@ -11,7 +11,7 @@
 - Docker
 - Tests
 - CI/CD
-- Upload to one Cloud Service (AWS, GCP, Azure)
+- Upload to one Cloud Service (AWS, GCP, Azure, Vercel, OVH)
 
 _The communication between microservices you can do how you prefer_
 
