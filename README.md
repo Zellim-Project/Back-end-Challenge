@@ -24,6 +24,7 @@ The project objective is to create a simple group of TODO Lists
 The first microservice needs 
 
 - CRUD of TODO List (called as tasks)
+- One route to bulk edit
 - One route to bulk delete
 
 You can follow the model below
