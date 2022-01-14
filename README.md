@@ -2,7 +2,7 @@
 
 ### Challenge
 
-| Basically, the challenge is to create two simple microservices with REST API and the microservices needs to communicate
+| Basically, the challenge is to create two simple microservices with REST API and the microservices has to communicate with each other
 
 ### Requirements
 - Microservice needs to be do in NodeJS
@@ -21,7 +21,10 @@ The project objective is to create a simple group of TODO Lists
 
 ### Microservice #1 - `task`
 
-The first microservice needs to be a CRUD of TODO List (called as tasks).
+The first microservice needs 
+
+- CRUD of TODO List (called as tasks)
+- One route to bulk delete
 
 You can follow the model below
 ```ts
