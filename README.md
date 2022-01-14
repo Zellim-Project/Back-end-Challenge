@@ -13,7 +13,7 @@
 - CI/CD
 - Upload to one Cloud Service (AWS, GCP, Azure, Vercel, OVH)
 
-_The communication between microservices you can do how you prefer_
+_The communication between microservices you can do however you prefer_
 
 ## Project details
 
