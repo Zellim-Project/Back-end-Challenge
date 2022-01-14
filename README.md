@@ -9,8 +9,9 @@
 - Typescript
 - MongoDB
 - Docker
-- Upload to one Cloud Service
-- Tests 
+- Tests
+- CI/CD
+- Upload to one Cloud Service (AWS, GCP, Azure)
 
 _The communication between microservices you can do how you prefer_
 
